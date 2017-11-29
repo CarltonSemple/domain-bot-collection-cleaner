@@ -1,0 +1,20 @@
+{
+  "name": "domain-bot-collection-cleaner",
+  "version": "1.0.0",
+  "description": "collection cleaner job",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carltonsemple/domain-bot-collection-cleaner"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0",
+    "watson-developer-cloud": "^2.41.1"
+  }
+}
